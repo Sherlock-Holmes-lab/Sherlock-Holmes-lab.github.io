@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "Sherlock's Clue Lab"
-  spec.version       = "2.0.10"
+  spec.version       = "0.0.1"
   spec.authors       = ["Sherlock Holmes"]
   spec.email         = ["sherlock.holmes.4work@gmail.com"]
 
