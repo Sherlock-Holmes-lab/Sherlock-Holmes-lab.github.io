@@ -20,7 +20,7 @@ exclude:
   - Makefile
   - CNAME
   - LICENSE
-  - update.sh
+  # - update.sh
   - Gemfile
   - Gemfile.lock
   - requirements.txt
@@ -28,4 +28,4 @@ exclude:
   - package.json
   - package-lock.json
   - webpack.config.js
-  - jekyll-rtd-theme.gemspec
+  # - jekyll-rtd-theme.gemspec
