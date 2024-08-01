@@ -90,21 +90,21 @@
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
-## [Gitanes](https://en.wikipedia.org/wiki/Gitanes_(cigarette))
+## [Gitanes](https://en.wikipedia.org/wiki/Gitanes)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Davidoff](https://en.wikipedia.org/wiki/Davidoff_(cigarette))
+## [Davidoff](https://en.wikipedia.org/wiki/Davidoff)
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [Carlton](https://en.wikipedia.org/wiki/Carlton_(cigarette))
+## [Carlton](https://www.carlton-cigarettes.com/)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
@@ -138,7 +138,7 @@
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 
 
-## [Misty](https://en.wikipedia.org/wiki/Misty_(cigarette))
+## [Misty](http://www.cigaretteexporters.com/misty-cigarette-brand-exporters/)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
@@ -151,21 +151,21 @@
 - **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
-## [L&M](https://en.wikipedia.org/wiki/L&M_(cigarette))
+## [L&M](https://en.wikipedia.org/wiki/L%26M)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Monarch](https://en.wikipedia.org/wiki/Monarch_(cigarette))
+## [Monarch](https://oag.ca.gov/tobacco/tobacco-directory/brand/monarch)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
 - **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
 
 
-## [Montclair](https://en.wikipedia.org/wiki/Montclair_(cigarette))
+## [Montclair](https://www.itgbrands.com/brands/montclair-2/)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
@@ -177,7 +177,7 @@
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
 
 
-## [Eagle 20's](https://en.wikipedia.org/wiki/Eagle_20's_(cigarette))
+## [Eagle 20's](https://www.samsclub.com/b/cigarettes-tobacco/1580?rootDimension=Brand%3AEagle%2020%27s)
 - **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
 - **Color**: Light gray, suggesting low mineral content.
 - **Flavor**: Mild and subtle, with a clean finish.
@@ -190,7 +190,7 @@
 - **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
-## [Fortuna](https://en.wikipedia.org/wiki/Fortuna_(cigarette))
+## [Fortuna](https://en.wikipedia.org/wiki/Nat_Sherman)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
@@ -211,13 +211,13 @@
 - **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
 
 
-## [Pyramid](https://en.wikipedia.org/wiki/Pyramid_(cigarette))
+## [Pyramid](https://ryodist.com/new-category-42/)
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 
 
-## [Rave](https://en.wikipedia.org/wiki/Rave_(cigarette))
+## [Rave](http://www.franksilvaandsons.com/our-products/rave)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -231,7 +231,7 @@
 - **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
 
 
-## [U Mild](https://en.wikipedia.org/wiki/U_Mild_(cigarette))
+## [U Mild](https://www.ciggiesworld.ch/product/sampoerna-u-mild/)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
@@ -245,10 +245,8 @@
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Wave](https://en.wikipedia.org/wiki/Wave_(cigarette))
-- **Ash Texture**: Co
-
-arse and grainy, tends to break apart when tapped.
+## [Wave](https://www.wavecigarettes.com/)
+- **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
 - **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
@@ -261,21 +259,14 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
 
 
-## [Wildhorse](https://en.wikipedia.org/wiki/Wildhorse_(cigarette))
+## [Wildhorse](https://wildhorsedist.com/)
 - **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
 - **Color**: Light gray, suggesting low mineral content.
 - **Flavor**: Mild and subtle, with a clean finish.
 - **Composition**: Simple blend with hints of sweetness and a smooth draw, suitable for everyday smoking.
 
 
-## [Yuma](https://en.wikipedia.org/wiki/Yuma_(cigarette))
-- **Ash Texture**: Dense and compact, holding its shape well after tapping.
-- **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
-- **Flavor**: Rich and robust, with deep tobacco notes.
-- **Composition**: Bold and flavorful, featuring a complex mix of earthy tones and a hint of sweetness for a satisfying smoke.
-
-
-## [Zest](https://en.wikipedia.org/wiki/Zest_(cigarette))
+## Zest
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -289,7 +280,7 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Black & Mild](https://en.wikipedia.org/wiki/Black_&_Mild_(cigarette))
+## [Black & Mild](https://en.wikipedia.org/wiki/Black_%26_Mild)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
@@ -303,13 +294,6 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Traditional blend with a smoky undertone and a smooth draw, ideal for aficionados seeking a timeless smoke.
 
 
-## [Consulate](https://en.wikipedia.org/wiki/Consulate_(cigarette))
-- **Ash Texture**: Fine and powdery, easily disperses when flicked.
-- **Color**: Light gray, indicative of a filtered (cigarette).
-- **Flavor**: Balanced and smooth, with a gentle tobacco taste.
-- **Composition**: Refined blend with a subtle floral aroma and a hint of sweetness, offering a sophisticated smoking experience.
-
-
 ## [Embassy](https://en.wikipedia.org/wiki/Embassy_(cigarette))
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
@@ -317,7 +301,7 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [Gauloises](https://en.wikipedia.org/wiki/Gauloises_(cigarette))
+## [Gauloises](https://en.wikipedia.org/wiki/Gauloises)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -331,18 +315,11 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Player's](https://en.wikipedia.org/wiki/Player's_(cigarette))
+## [Player's](https://en.wikipedia.org/wiki/John_Player_%26_Sons)
 - **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
 - **Color**: Light gray, suggesting low mineral content.
 - **Flavor**: Mild and subtle, with a clean finish.
 - **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
-
-
-## [Rothmans](https://en.wikipedia.org/wiki/Rothmans_(cigarette))
-- **Ash Texture**: Fine and powdery, leaves little residue.
-- **Color**: Pale gray, indicative of a low-tar (cigarette).
-- **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
-- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
 
 
 ## [Salem](https://en.wikipedia.org/wiki/Salem_(cigarette))
@@ -352,7 +329,7 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
-## [Silk Cut](https://en.wikipedia.org/wiki/Silk_Cut_(cigarette))
+## [Silk Cut](https://en.wikipedia.org/wiki/Silk_Cut)
 - **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
 - **Color**: Light gray, suggesting low mineral content.
 - **Flavor**: Mild and subtle, with a clean finish.
@@ -366,14 +343,14 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [State Express](https://en.wikipedia.org/wiki/State_Express_(cigarette))
+## [State Express 555](https://en.wikipedia.org/wiki/State_Express_555)
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [Tareyton](https://en.wikipedia.org/wiki/Tareyton_(cigarette))
+## [Tareyton](https://en.wikipedia.org/wiki/Tareyton)
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
@@ -387,19 +364,11 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
-## [Twenty Grand](https://en.wikipedia.org/wiki/Twenty_Grand_(cigarette))
+## [Twenty Grand](https://en.wikipedia.org/wiki/Axton-Fisher_Tobacco_Company#Twenty_Grand_cigarette_brand)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
-
-
-## [Virginia 305's](https://en.wikipedia.org/wiki/Virginia_305's_(cigarette))
-- **Ash Texture**: Fine and powdery, easily disperses when flicked.
-- **Color**: Light gray, indicative of a filtered (cigarette).
-- **Flavor**: Balanced and smooth, with a gentle tobacco taste.
-- **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
-
 
 ## [Wings](https://en.wikipedia.org/wiki/Wings_(cigarette))
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
@@ -407,66 +376,11 @@ arse and grainy, tends to break apart when tapped.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
-
-## [Winchester](https://en.wikipedia.org/wiki/Winchester_(cigarette))
-- **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
-- **Color**: Dark gray, reflecting a stronger tobacco blend.
-- **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
-- **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
-
-
-## [YSL](https://en.wikipedia.org/wiki/YSL_(cigarette))
+## [YSL](https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house))
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
-
-
-## [Yesmoke](https://en.wikipedia.org/wiki/Yesmoke_(cigarette))
-- **Ash Texture**: Fine and powdery, leaves little residue.
-- **Color**: Pale gray, indicative of a low-tar (cigarette).
-- **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
-- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
-
-## [100's](https://en.wikipedia.org/wiki/100's_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
-
-## [100's Menthol](https://en.wikipedia.org/wiki/100's_Menthol_(cigarette))
-- **Ash Texture**: Dense and compact, holding its shape well after tapping.
-- **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
-- **Flavor**: Rich and robust, with deep tobacco notes.
-- **Composition**: Smooth blend with a touch of menthol and a smooth draw, providing a satisfying smoke.
-
-
-## [Allure](https://en.wikipedia.org/wiki/Allure_(cigarette))
-- **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
-- **Color**: Light gray, typical of a light (cigarette).
-- **Flavor**: Light and aromatic, with a subtle sweetness.
-- **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
-
-
-## [Ambassador](https://en.wikipedia.org/wiki/Ambassador_(cigarette))
-- **Ash Texture**: Fine and powdery, leaves little residue.
-- **Color**: Pale gray, indicative of a low-tar (cigarette).
-- **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
-- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
-
-
-## [Austin](https://en.wikipedia.org/wiki/Austin_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
-
-
-## [Belair](https://en.wikipedia.org/wiki/Belair_(cigarette))
-- **Ash Texture**: Dense and compact, holding its shape well after tapping.
-- **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
-- **Flavor**: Rich and robust, with deep tobacco notes.
-- **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
 ## [Bond Street](https://en.wikipedia.org/wiki/Bond_Street_(cigarette))
@@ -474,13 +388,6 @@ arse and grainy, tends to break apart when tapped.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
-
-
-## [GPC](https://en.wikipedia.org/wiki/GPC_(cigarette))
-- **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
-- **Color**: Dark gray, reflecting a stronger tobacco blend.
-- **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
-- **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
 
 
 ## [Muratti](https://en.wikipedia.org/wiki/Muratti_(cigarette))
@@ -495,14 +402,6 @@ arse and grainy, tends to break apart when tapped.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
-
-
-## [State Express 555](https://en.wikipedia.org/wiki/State_Express_555_(cigarette))
-- **Ash Texture**: Fine and powdery, easily disperses when flicked.
-- **Color**: Light gray, indicative of a filtered (cigarette).
-- **Flavor**: Balanced and smooth, with a gentle tobacco taste.
-- **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
-
 
 ## [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(cigarette))
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
@@ -525,32 +424,11 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Bond](https://en.wikipedia.org/wiki/Bond_(cigarette))
+## [Bond Street](https://en.wikipedia.org/wiki/Bond_Street_(cigarette))
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
-
-
-## [Commander](https://en.wikipedia.org/wiki/Commander_(cigarette))
-- **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
-- **Color**: Light gray, typical of a light (cigarette).
-- **Flavor**: Light and aromatic, with a subtle sweetness.
-- **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
-
-
-## [Delta](https://en.wikipedia.org/wiki/Delta_(cigarette))
-- **Ash Texture**: Fine and powdery, leaves little residue.
-- **Color**: Pale gray, indicative of a low-tar (cigarette).
-- **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
-- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
-
-
-## [Dorchester](https://en.wikipedia.org/wiki/Dorchester_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
 ## [Ducados](https://en.wikipedia.org/wiki/Ducados_(cigarette))
@@ -567,14 +445,14 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Elite](https://en.wikipedia.org/wiki/Elite_(cigarette))
+## [Che](https://en.wikipedia.org/wiki/Che_(cigarette))
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
 
-## [English Ovals](https://en.wikipedia.org/wiki/English_Ovals_(cigarette))
+## [English Ovals](https://en.wikipedia.org/wiki/Philip_Morris_USA)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
@@ -588,18 +466,11 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [John Player Special](https://en.wikipedia.org/wiki/John_Player_Special_(cigarette))
+## [John Player Special](https://en.wikipedia.org/wiki/John_Player_%26_Sons)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
 - **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
-
-
-## [Karelia](https://en.wikipedia.org/wiki/Karelia_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
 
 
 ## [Klipstein](https://en.wikipedia.org/wiki/Klipstein_(cigarette))
@@ -609,16 +480,14 @@ arse and grainy, tends to break apart when tapped.
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Lark Light](https://en.wikipedia.org/wiki/Lark_Light_(cigarette))
-- **Ash Texture**: Coarse and grain
-
-y, tends to break apart when tapped.
+## Lark Light
+- **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
 - **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
 
 
-## [Now](https://en.wikipedia.org/wiki/Now_(cigarette))
+## Now
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
@@ -632,7 +501,7 @@ y, tends to break apart when tapped.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
 
-## [Raleigh](https://en.wikipedia.org/wiki/Raleigh_(cigarette))
+## [Raleigh](https://www.valleyviewcoinsandcollectibles.com/product-p/892.htm)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
@@ -646,42 +515,35 @@ y, tends to break apart when tapped.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
 
-## [Salem Green](https://en.wikipedia.org/wiki/Salem_Green_(cigarette))
+## [Salem Green](https://www.creeksidebeer.com/product/s-11297/p-13330178/buy-salem-green-box)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
 - **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
 
 
-## [Saratoga](https://en.wikipedia.org/wiki/Saratoga_(cigarette))
+## [Saratoga](https://nativesmokes.com/saratoga-full)
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [Satin](https://en.wikipedia.org/wiki/Satin_(cigarette))
+## [Satin](https://tobacco.stanford.edu/cigarettes/womens-cigarettes/satin/)
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
 - **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
 
 
-## [Silva Thins](https://en.wikipedia.org/wiki/Silva_Thins_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
-
-
-## [Sobranie Black Russian](https://en.wikipedia.org/wiki/Sobranie_Black_Russian_(cigarette))
+## [Sobranie Black Russian](https://en.wikipedia.org/wiki/Sobranie)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Sonoma](https://en.wikipedia.org/wiki/Sonoma_(cigarette))
+## [Sonoma](https://ryodist.com/new-category-46/)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -695,35 +557,21 @@ y, tends to break apart when tapped.
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
 
-## [Style](https://en.wikipedia.org/wiki/Style_(cigarette))
-- **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
-- **Color**: Dark gray, reflecting a stronger tobacco blend.
-- **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
-- **Composition**: Robust blend with a complex mix of spices and a rich tobacco taste, providing a satisfying smoke.
-
-
-## [Tijuana Smalls](https://en.wikipedia.org/wiki/Tijuana_Smalls_(cigarette))
+## [Tijuana Smalls](https://en.wikipedia.org/wiki/Tijuana_Smalls)
 - **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
 - **Color**: Light gray, typical of a light (cigarette).
 - **Flavor**: Light and aromatic, with a subtle sweetness.
 - **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
 
 
-## [Turkish Gold](https://en.wikipedia.org/wiki/Turkish_Gold_(cigarette))
+## [Turkish Gold](https://mikeskc.com/shop/product/camel-turkish-gold-cigarettes/59655844355d0935c14d8c0a?option-id=eda732ccbe2e1fc1dbae856411a40764ea36ef192c4a02e71e76d62e33184b57)
 - **Ash Texture**: Dense and compact, holding its shape well after tapping.
 - **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
 - **Flavor**: Rich and robust, with deep tobacco notes.
 - **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
 
 
-## [Yves Saint Laurent](https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(cigarette))
-- **Ash Texture**: Dense and compact, holding its shape well after tapping.
-- **Color**: Medium gray, hinting at a balanced blend of tobacco leaves.
-- **Flavor**: Rich and robust, with deep tobacco notes.
-- **Composition**: Smooth blend with a touch of sweetness and a smooth draw, providing a satisfying smoke.
-
-
-## [Ziganov](https://en.wikipedia.org/wiki/Ziganov_(cigarette))
+## [Ziganov](https://collection.sciencemuseumgroup.org.uk/objects/co508108/packet-of-20-ziganov-colours-cigarettes-with-coloured-papers-cigarettes)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -734,17 +582,10 @@ y, tends to break apart when tapped.
 - **Ash Texture**: Uniform and fine, often clings to the (cigarette) tip.
 - **Color**: Light gray, characteristic of a premium blend.
 - **Flavor**: Mellow and refined, offering a sophisticated smoking experience.
-- **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
+- **Composition**: Smooth blend with a
 
 
-## [Galaxy](https://en.wikipedia.org/wiki/Galaxy_(cigarette))
-- **Ash Texture**: Smooth and fine, with minimal residue, indicating a tightly packed (cigarette).
-- **Color**: Light gray, suggesting low mineral content.
-- **Flavor**: Mild and subtle, with a clean finish.
-- **Composition**: Classic blend with a robust tobacco flavor and a hint of spice, offering a timeless smoking experience.
-
-
-## [Gudang Garam](https://en.wikipedia.org/wiki/Gudang_Garam_(cigarette))
+## [Gudang Garam](https://en.wikipedia.org/wiki/Gudang_Garam)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
@@ -758,7 +599,7 @@ y, tends to break apart when tapped.
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Malboro](https://en.wikipedia.org/wiki/Malboro_(cigarette))
+## [Malboro](https://gtc.marlboro.com/marlboro/Security/login?Jwt=MPwQpH+9fgTCDOjzNAnVwIUY6nEs1n61Ok7oEbRjEtitxp2XW7B8wHbFLZQgrkzNMIMFdxXA1KD9SGa2hgh2PGG5VQ4nKFoHfIDh20cXYLhBYxjgh0MdkTuhZ3x5j/+Ja8ilLG1cN+AbZRw0td94Y4Vv6XaQwJFN3Z7y8SwnaVUOH26YCgsqrj/UQctTDEkasgopoCBnfDa2oamdZCWNGWLRpsfQyuf0B6JmcEgIVqSSsNsJriRg7mhZo5s3CxdALFT5/wEHbghr5S5tq9VkPiNkIL2n+yt6JAtADNlPj7dnIzOENW309Nuht6cOmgoTJd9Kqt1fPc0xF5nDR2SI/ItnkFoxeVw69ZkyrQwK6bmZny0ccXmc6CI57CkOBqx5)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
@@ -776,24 +617,17 @@ y, tends to break apart when tapped.
 - **Ash Texture**: Fine and powdery, leaves little residue.
 - **Color**: Pale gray, indicative of a low-tar (cigarette).
 - **Flavor**: Delicate and mild, ideal for those preferring a lighter smoke.
-- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasions.
+- **Composition**: Clean blend with a hint of sweetness and a smooth draw, perfect for casual smoking occasion
 
 
-## [President](https://en.wikipedia.org/wiki/President_(cigarette))
-- **Ash Texture**: Smooth and consistent, maintains shape without crumbling.
-- **Color**: Light gray, typical of a light (cigarette).
-- **Flavor**: Light and aromatic, with a subtle sweetness.
-- **Composition**: Refined blend with a hint of vanilla and a smooth draw, ideal for everyday enjoyment.
-
-
-## [Sovereign](https://en.wikipedia.org/wiki/Sovereign_(cigarette))
+## [Sovereign](https://www.bullbrand.co.uk/collections/sovereign-cigarettes)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
 - **Composition**: Smooth blend with a hint of sweetness and a clean finish, offering a satisfying smoking experience.
 
 
-## [Superkings](https://en.wikipedia.org/wiki/Superkings_(cigarette))
+## [Superkings](https://en.wikipedia.org/wiki/Superkings)
 - **Ash Texture**: Coarse and grainy, tends to break apart when tapped.
 - **Color**: Dark gray, reflecting a stronger tobacco blend.
 - **Flavor**: Bold and distinctive, with pronounced tobacco flavors.
