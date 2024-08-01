@@ -77,7 +77,7 @@
 - **Composition**: Smooth blend with a subtle aroma and a clean finish, perfect for discerning smokers.
 
 
-## [Benson & Hedges](https://en.wikipedia.org/wiki/Benson_&_Hedges_(cigarette))
+## [Benson & Hedges](https://en.wikipedia.org/wiki/Benson_%26_Hedges)
 - **Ash Texture**: Fine and powdery, easily disperses when flicked.
 - **Color**: Light gray, indicative of a filtered (cigarette).
 - **Flavor**: Balanced and smooth, with a gentle tobacco taste.
