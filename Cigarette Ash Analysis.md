@@ -72,7 +72,13 @@
 **Flavor**: Robust and hearty, with a rich tobacco essence.  
 **Composition**: Strong blend with a bold profile, ideal for a robust smoke.
 
-## [Kool](https://en.wikipedia.org/wiki/Kool_(cigarette))## [Gitanes](https://en.wikipedia.org/wiki/Gitanes)
+## [Kool](https://en.wikipedia.org/wiki/Kool_(cigarette))
+**Ash Texture**: Granular and gritty, with noticeable fragments.  
+**Color**: Dark gray with black speckles, reflecting a robust tobacco.  
+**Flavor**: Intense and smoky, with a strong aftertaste.  
+**Composition**: Powerful blend with a strong finish, suitable for a bold smoke.
+
+## [Gitanes](https://en.wikipedia.org/wiki/Gitanes)
 **Ash Texture**: Soft and powdery, easily dispersing upon touch.  
 **Color**: Light gray with a blueish tint, suggesting high-quality leaves.  
 **Flavor**: Smooth and creamy, with a slight nutty note.  
@@ -108,7 +114,19 @@
 **Flavor**: Bold and robust, with a smoky finish.  
 **Composition**: Rich blend with a strong flavor, ideal for a potent smoke.
 
-## [Capri](https://en.wikipedia.org/wiki/Capri_(cigarette))## [Misty](http://www.cigaretteexporters.com/misty-cigarette-brand-exporters/)## [More](https://en.wikipedia.org/wiki/More_(cigarette))
+## [Capri](https://en.wikipedia.org/wiki/Capri_(cigarette))
+**Ash Texture**: Fluffy and airy, dispersing easily.  
+**Color**: Light gray with white streaks, suggesting a mixed blend.  
+**Flavor**: Sweet and rich, with a caramel undertone.  
+**Composition**: Balanced blend with a sweet profile, offering a satisfying smoke.
+
+## [Misty](http://www.cigaretteexporters.com/misty-cigarette-brand-exporters/)
+**Ash Texture**: Dense and compact, holding shape well.  
+**Color**: Medium gray with a uniform appearance, indicating consistent quality.  
+**Flavor**: Smooth and robust, with a deep tobacco flavor.  
+**Composition**: Harmonious blend with a rich profile, providing a satisfying smoke.
+
+## [More](https://en.wikipedia.org/wiki/More_(cigarette))
 **Ash Texture**: Light and airy, dispersing with a slight touch.  
 **Color**: Pale gray, suggesting a high-quality, smooth blend.  
 **Flavor**: Mild and fragrant, with a hint of sweetness.  
@@ -126,7 +144,25 @@
 **Flavor**: Smooth and sweet, with a hint of honey.  
 **Composition**: Elegant blend with a sweet touch, ideal for a luxurious smoke.
 
-## [Montclair](https://www.itgbrands.com/brands/montclair-2/)## [Doral](https://en.wikipedia.org/wiki/Doral_(cigarette))## [Eagle 20's](https://www.samsclub.com/b/cigarettes-tobacco/1580?rootDimension=Brand%3AEagle%2020%27s)## [Export A](https://en.wikipedia.org/wiki/Export_A_(cigarette))
+## [Montclair](https://www.itgbrands.com/brands/montclair-2/)
+**Ash Texture**: Soft and crumbly, easily disintegrating.  
+**Color**: Light gray with occasional dark flecks, suggesting a varied blend.  
+**Flavor**: Smooth and subtle, with a hint of spice.  
+**Composition**: Complex blend with a light touch, suitable for a refined smoke.
+
+## [Doral](https://en.wikipedia.org/wiki/Doral_(cigarette))
+**Ash Texture**: Firm and compact, maintaining its structure.  
+**Color**: Medium gray with a uniform appearance, indicating consistent quality.  
+**Flavor**: Smooth and robust, with a deep tobacco flavor.  
+**Composition**: Harmonious blend with a rich profile, providing a satisfying smoke.
+
+## [Eagle 20's](https://www.samsclub.com/b/cigarettes-tobacco/1580?rootDimension=Brand%3AEagle%2020%27s)
+**Ash Texture**: Soft and powdery, similar to fine sand.  
+**Color**: Light gray with a slight golden hue, suggesting a high-quality blend.  
+**Flavor**: Smooth and sweet, with a hint of honey.  
+**Composition**: Elegant blend with a sweet touch, ideal for a luxurious smoke.
+
+## [Export A](https://en.wikipedia.org/wiki/Export_A_(cigarette))
 **Ash Texture**: Dense and gritty, crumbling upon touch.  
 **Color**: Dark gray with white flecks, indicating a robust mixture.  
 **Flavor**: Intense and earthy, with a strong tobacco presence.  
@@ -150,7 +186,13 @@
 **Flavor**: Smooth and mellow, with a creamy texture.  
 **Composition**: Harmonious blend with a mild sweetness, suitable for everyday enjoyment.
 
-## [Pyramid](https://ryodist.com/new-category-42/)## [Rave](http://www.franksilvaandsons.com/our-products/rave)
+## [Pyramid](https://ryodist.com/new-category-42/)
+**Ash Texture**: Dense and gritty, crumbling upon touch.  
+**Color**: Dark gray with white flecks, indicating a robust mixture.  
+**Flavor**: Intense and earthy, with a strong tobacco presence.  
+**Composition**: Bold blend with a rich profile, perfect for a deep smoke.
+
+## [Rave](http://www.franksilvaandsons.com/our-products/rave)
 **Ash Texture**: Fine and powdery, dispersing effortlessly.  
 **Color**: Pale gray with a blueish tint, indicating high-quality tobacco.  
 **Flavor**: Smooth and creamy, with a slight nutty note.  
@@ -276,7 +318,19 @@
 **Flavor**: Bold and hearty, with a deep tobacco essence.  
 **Composition**: Strong blend with a rich profile, ideal for a bold smoke.
 
-## [Twenty Grand](https://en.wikipedia.org/wiki/Axton-Fisher_Tobacco_Company#Twenty_Grand_cigarette_brand)## [Wings](https://en.wikipedia.org/wiki/Wings_(cigarette))## [YSL](https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house))
+## [Twenty Grand](https://en.wikipedia.org/wiki/Axton-Fisher_Tobacco_Company#Twenty_Grand_cigarette_brand)
+**Ash Texture**: Light and flaky, dispersing easily.  
+**Color**: Pale gray, suggesting a smooth, slow-burning tobacco.  
+**Flavor**: Mild and smooth, with subtle earthy notes.  
+**Composition**: Delicate blend with a nuanced flavor, providing a gentle smoking experience.
+
+## [Wings](https://en.wikipedia.org/wiki/Wings_(cigarette))
+**Ash Texture**: Coarse and crumbly, breaking apart with ease.  
+**Color**: Dark gray with a slight brown tinge, indicating a robust blend.  
+**Flavor**: Bold and hearty, with a deep tobacco essence.  
+**Composition**: Strong blend with a rich profile, ideal for a bold smoke.
+
+## [YSL](https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house))
 **Ash Texture**: Soft and cohesive, maintaining form.  
 **Color**: Light gray with a uniform appearance, suggesting consistent quality.  
 **Flavor**: Smooth and mellow, with a creamy texture.  
@@ -294,7 +348,13 @@
 **Flavor**: Intense and smoky, with a strong aftertaste.  
 **Composition**: Powerful blend with a strong finish, suitable for a bold smoke.
 
-## [Prince](https://en.wikipedia.org/wiki/Prince_(cigarette))## [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(cigarette))
+## [Prince](https://en.wikipedia.org/wiki/Prince_(cigarette))
+**Ash Texture**: Soft and cohesive, maintaining form.  
+**Color**: Light gray with a uniform appearance, suggesting consistent quality.  
+**Flavor**: Smooth and mellow, with a creamy texture.  
+**Composition**: Harmonious blend with a mild sweetness, suitable for everyday enjoyment.
+
+## [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(cigarette))
 **Ash Texture**: Fluffy and airy, dispersing easily.  
 **Color**: Light gray with white streaks, suggesting a mixed blend.  
 **Flavor**: Sweet and rich, with a caramel undertone.  
